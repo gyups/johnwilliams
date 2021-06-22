@@ -4,7 +4,6 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
-
+The contents of John Williams' pocketbook were photographed at [the National Archives, Kew](https://www.nationalarchives.gov.uk/) in 2015. They can be found by requesting box [ADM 1/1054](http://discovery.nationalarchives.gov.uk/details/r/C4772137) and finding letter no. 774 when visiting Kew or making records requests online.
 
 {% include collection_gallery.html collection='johnwilliams' facet_by='_date' %}

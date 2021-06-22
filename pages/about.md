@@ -1,48 +1,49 @@
 ---
 layout: page
-title: What is Wax?
+title: About this Site
 permalink: /about/
 ---
 
-**Wax helps you create digital exhibits.**   
-A digital exhibit is a collection of curated cultural artifacts—manuscripts, paintings, photographs, sculptures, etc—often accompanied by an explicit narrative or argument. Though Wax focuses on images and text, it could be used for sound or video collections with some customization.
+This website is the fruit of a four-day course called Minimal Computing held June 14-17, 2021, by *Dream Lab: A Digital Humanities Training Institute*, *Price Lab for Digital Humanities*, and *Penn Libraries*. The course was taught by Alex Gil and Marii Nyröp with the hope to empower researchers to put and maintain their own work online.
 
-**Wax is an extensible workflow based on minimal computing principles.**  
-Wax is hyper-aware of differences in resources, control and access around the world and close to home. As a result, it is purposefully lightweight: a few Ruby gems, some customizable UI components, good documentation and (hopefully soon!) recipes for creating, deploying, and maintaining custom digital exhibitions.
+This site currently hosts simple images of the pocketbook of John Williams, quarter-gunner and mutineer. In the future, I will add transcriptions of these documents and additional essays on their contents.
 
-**The exhibition sites created by Wax are static.**  
-This means they consist of flat HTML, CSS, and JavaScript files that don't need to communicate in a complex way back to a server. This makes them cheaper, safer, and generally easier to maintain.
+{% include parallax_image.html collection='johnwilliams' pid='obj13' y='50%' %}
 
-**The skills needed to create Wax sites are agnostic.**  
-This means they are largely transferable for use in other digital projects. 'Learning Wax' does not mean learning how to use a platform. It involves learning the fundamentals of web development, data management, and [plain text editing](https://zapier.com/blog/beginner-ultimate-guide-markdown/) while leveraging a few great open source libraries and frameworks along the way.
+__Who was John Williams and what happened on the *Danae*?__
 
-**Wax keeps the collection presentation separate from the collection data.**  
-The Wax workflow starts with making standardized image files and metadata records and builds around them, handling canonical information, scholarly content, and site styling differently and deliberately. This makes it easier for you or others to share, reuse and reimagine your collection data in other contexts.
+John Williams was a quarter-gunner on the 20-gun sixth-rate *Danae*. On March 14, 1800, the vessel was overtaken by mutineers with John Williams among them. This group of primarily pressed merchant seafarers, including Americans removed from French ships, decided to sail for the nearby coast of Brittany and surrendered the ship to the French Navy. The ship's young captain, twenty-year-old Lord William Allen Proby and the loyal crew were disembarked in Le Conquet and then marched overland to Brest, where they joined the mutineers who had sailed the *Danae* to Brest with French assistance. In Brest, the loyal and mutinous sailors were kept together until Proby and his men were returned to England in a cartel out of Dunkirk in May.
 
-## Who is Wax for?
+__What is the deal with the *Danae*?__
 
-Wax was created for individuals and groups who either don't have or don't want to use a lot of resources to create their scholarly or cultural exhibits. It's best suited for folks who are willing to take on some technical responsibility in exchange for a lot of flexibility.
+The ship on which the *Danae* mutiny took place was originally a French corvette called *La Vaillante*. It was built in Bayonne in 1796 and was designed for speed with a flush deck and capable of carrying 20 4-pound guns. Siginificantly for the mutiny, the ship was "ruthlessly" small, with the captain's quarters barely 5 feet: "a cramped henhouse."[^1] *La Vaillante* was launched and ordered to transport *déportés* from the *coup d'état* of 18 Fructidor to Cayenne. After a handful of such trips, *La Vaillante* was captured by HMS *Indefatigable* on August 7, 1798.
 
-For beginners, Wax has a relatively high, but general-purpose learning curve. To get the most out of Wax, you should have some familiarity with:
+The corvette was surveilled in Plymouth to give a prize amount to the officers and crew of *Indefatigable* and it was renamed *Danae*. Its twenty 4-pound French guns were replaced by twenty 32-pound cannonades, twelve 12-pound cannonades, and two 6-pounders fixed to the maindeck, adding new weight higher in the small ship. The *Danae* was a difficult ship to sail under the British: top-heavy, uncomfortable, and interminably short-staffed.
 
-- Using an interactive shell (e.g., Bash/Terminal) to install and interact with programs, files, and directories on your local computer.
-- Using Git and GitHub to version control and collaborate on projects.
-- Using Jekyll to generate static sites.
-- Creating and normalizing data files (e.g., CSV, JSON, YAML)
-- Using file-naming conventions and best practices.
-- Editing HTML, CSS, and some JavaScript.
+{% include parallax_image.html collection='johnwilliams' pid='obj09' y='50%' %}
 
-**However, Wax is also great for teaching or learning the skills above!** For examples of digital pedagogy via the creation of Wax exhibitions, check out [this workshop](https://www.columbia.edu/content/events/introduction-minimal-computing-humanities-building-exhibit-primary-sources-using-wax), [this GitHub repository](https://github.com/stylerevolution/stylerevolution.github.io), and [this custom Wax site](https://stylerevolution.github.io/).
+__What were the causes of the mutiny?__
 
-**Wax is also phenomenal for professionals who play a facilitating role**, such as Digital Scholarship Librarians or Coordinators. With some practice, Wax substantially reduces the time to production and post-production maintenance costs for you and your team. In the most common scenario, students, faculty, colleagues or any other collaborators just have to provide you with a properly formatted spreadsheet and the text for the exhibits. The extras are up to you.
+The captain, Lord Proby, was twenty-years-old when he was given command of the ship and had to deal with unique problems that were not mitigated by the ship's small size. Too slow to capture prizes, the *Danae* frustrated Proby's ambitions as he cruised the Channel looking for French ships that challenged the Royal Navy blockade. When they did capture ships, or joined British ships with prizes, Proby's loyal crewmembers often had to be sent to sail the ships back to Britain. As the *Danae*'s time at sea lengthened, Proby increasing found his ship short-staffed and he drew new crewmembers from the crews of captured ships. On October 13, 1799, Proby received six Americans from HMS *La Revolutionaire* who had been taken off a French ship *Bordelais*. John Williams was among them.
 
+The *Danae* was lacking in its most skilled seafarers, top-men who worked in the rigging at the highest points of a vessel's masts. These men consequently also carried a lot of authority, vested in them by their dangerous, manly labour and their seafaring skill. Proby allowed pressed men to work as top-men, and it appears that they used their powerful place in the ship's labour hierarchy to both organize a plan of mutiny and to keep that news from reaching anyone who might report them to the officers.
 
-## So what does the Wax workflow *look like?*
+Further, Proby's space problem caused him to stow the ship's arms chest on deck rather than in his quarters. The mutineers were sure to secure the key to the chest in order to arm themselves.
 
-Below is a diagram to give you a zoomed-out view. In summary, you create a file of metadata records for your collection (in CSV, YAML, or JSON format), organize your collection image files, and put both in the Jekyll site folder. After updating your configuration, you run a few command line tasks to prepare the data and metadata for use by the Jekyll site. Jekyll then uses special layouts and Wax components to build the exhibit and spits them out as static pages ready to publish.
+On March 14, 1800, a group of mutineers seized the master and forced him below. They closed and locked the hatches, trapping the officers and marines below and any loyal men above. This was the start of the mutiny on the *Danae*.
 
-From there, you can run tests on your site to catch errors and decide where and how to put it online or in offline media.
+__What is so special about the *Danae* mutiny?__
 
-<a href="{{ '/img/wax_workflow.jpg' | absolute_url }}">
-  <img src="{{ '/img/wax_workflow.jpg' | absolute_url }}"/>
-</a>
+The mutiny of HMS *Danae* is somewhat significant because it was the only time during the French Wars period (1792-1815) when a British ship joined the French Navy. However, more broadly the *Danae* is part of the 1790s period of heightened mutinies in European navies. In Britain, the *Danae* case is overshadowed by the larger mutinies at Spithead and the Nore in the spring and summer of 1797, and the notorious single-ship case of HMS *Hermione*, whose crew butchered their officers in the evening of September 21, 1797 and delivered the ship to the Spanish in La Guaira, Venezuela.
+
+{% include parallax_image.html collection='johnwilliams' pid='obj30' y='50%' %}
+
+__Consequences of the Mutiny__
+
+The mutiny resulted in a number of court martials between 1800 and 1801, including an acquittal for Lord Proby, two hangings of Williams's colleagues, and Williams' pardon. Lord Proby was assigned command of a new ship in 1802 and sent to the Leewards Islands station. He died in August 1804, probably of yellow fever, at the age of 25 and is buried in Barbados. The *Danae*, renamed *La Vaillante*, was sent to Haiti in 1802 as a transport, after which nothing more is known about its fate.
+
+John Williams was pardoned in 1801 but what happened to him afterwards is not known at this time.
+
+__Citations__
+
+[^1]: Dudley Pope, *The Devil Himself: The Mutiny of 1800* (Secker & Warburg, 1987), 11.

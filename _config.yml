@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'The Lost Pocketbook of John Williams'
 description:      'A Minimal Look at the Consequences of Mutiny'
 url:              ''
 baseurl:          '/john_williams_letterbook'
