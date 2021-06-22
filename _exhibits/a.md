@@ -1,29 +1,61 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Letter from Captain Bover to Admiral Milbanke'
+author: Captain Peter Turner Bover
+publish_date: 2021-06-22
 permalink: /exhibits/a/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.[^1]
-
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+## The Letter
 
 
-{% include parallax_image.html collection='qatar' pid='obj12' y='50%' %}
+{% include inline_image.html collection='johnwilliams' pid='obj01' %}
 
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor.[^2] Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+*28.4* [^1] // *A774* [^2]
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
+Blenheim at Spithead
+3d September 1802
 
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
+Sir,
+
+In answer to your letter dated 30th ultimo, [^3] signifying their Lordships direction to me to State the Case of John Williams said to be an American and on board the *Blenheim*, I herewith transmit to you the report which I have received from Captain Bover respecting him.
+
+I am Sir, your obedient humble servant,
+
+Mk. Milbanke
+
+
+[To] Sir Evan Nepean, Bart [^4]
+
+---
+
+## The Minute [^5]
+
+
+{% include inline_image.html collection='johnwilliams' pid='obj02' %}
+
+
+4 Sept
+
+Let those Certificates be looked out & be sent on. [red ink] enclosed.
+
+Has he not been tried by a Court Martial & Condemned?
+
+[Red ink] Yes, Sir. Vide [^6] enclosed papers.
 
 ---
 
 ### Notes
 
-[^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
+[^1]: This number refers to the numerical subject key used to organize the ADM/12 digests at the National Archives. In this case, the notation for this letter was filed under "COURTS MARTIAL; Revision of Sentences" and can be found in [ADM 12/97](http://discovery.nationalarchives.gov.uk/details/r/C513829). A guide to the ADM 12 digests can be found at [here at Global Maritime History](http://globalmaritimehistory.com/research-note-adm-12-finding-aid-1800-1840/).
 
-[^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+[^2]: Related to the previous number, this letter and number combination is the code for the location of the letter provided by the ADM 12 digests. The National Archive's modern archival system rests on the bones of the Admiralty one established by clerks 200-years-ago. In this system, a letter refered to boxes or bound volumes of certain letters, in this case "A" or "Letters from Commanders-in-Chief, Portsmouth". From this, the clerk would use the year of the digest and the subsequent number, referring to the file order of the box/book, to find the needed letter. In the modern system, A774 refers to [ADM 1/1054: Letters from CiC, Portsmouth; 1802, nos. 601-799](http://discovery.nationalarchives.gov.uk/details/r/C4772137).
+
+[^3]: Ultimo is shorthand for "last month" so this refers to the 30th of August.
+
+[^4]: Evan Nepean was the First Secretary of the Admiralty and he is named here because he would have received all correspondence for the Board of Admiralty. He served in this position from 1795 to 1804 and had only recently received his title of Baronet in 1802.
+
+[^5]: Almost every letter sent to the Admiralty from this period has a note written on the folded-over bottom-right corner of the first letter. These notes are called "minutes" and are the reactions, decisions, and questions of the Board of Admiralty from the meeting where they discussed the letter. Often minutes include little more that the remark "read" but occasionally they are more verbose, like this note.
+
+[^6]: *Vide* means "consult". The "call and response" discussion in this minute is uncommon but not unheard of, and probably is between Evan Nepean and some unknown member of the board, possibly John Jervis, Lord St. Vincent, who was the First Lord of the Admiralty between 1801 and 1804.
