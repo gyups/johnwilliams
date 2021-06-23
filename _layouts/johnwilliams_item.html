@@ -3,14 +3,21 @@ layout: generic_collection_item
 image_viewer: 'simple'
 pagination: true
 meta:
-  - label: 'label'
-    value: page.label
+  - label: 'Title'
+    value: page.title
+  - label: 'Transcription'
+    value: page.transcription_link
+    type: link
   - label: 'People Mentioned'
     value: page.people
   - label: 'Date'
     value: page._date
+  - label: 'Republican Date'
+    value: page.revolutionary_date
   - label: 'Location'
     value: page.location
+  - label: 'Language'
+    value: page.language
   - label: 'Pages'
     value: page.pages
   - label: 'Archive'
