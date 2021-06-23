@@ -4,7 +4,7 @@ label: Summary of the Case of John Williams
 title: Page 2 | Summary of the Case of John Williams
 people: Unknown Clerk, John Jervis, John Williams, Unnamed Wife, William Allen Proby,
   Unnamed Lieutenant
-_date: 31 September 1802
+_date: 29 September 1802
 revolutionary_date:
 location: Portsmouth
 language: English

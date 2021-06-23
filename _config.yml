@@ -22,7 +22,7 @@ title:            'The Lost Pocketbook of John Williams'
 description:      'A Minimal Look at the Consequences of Mutiny'
 url:              ''
 baseurl:          '/johnwilliams'
-copyright:        'Example copyright org, 2019'
+copyright:        'Creative Commons, 2021'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -88,9 +88,10 @@ search:
       johnwilliams:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - label
+          - title
           - people
           - _date
+          - revolutionary_date
           - location
           - language
 
