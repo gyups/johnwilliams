@@ -1,24 +1,45 @@
 ---
 layout: exhibit
-title: 'Exhibit B: Inline Image References'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: 'Summary of the Case of John Williams'
+author: Unknown Clerk
+publish_date: 1802-09-29
 permalink: /exhibits/b/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.
+{% include inline_image.html collection='johnwilliams' pid='obj04' %}
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+Case of John Williams an American under Sentence of Death at Portsmouth.
+<p style="margin-left: 40px">Sep<sup>r</sup> 29 1802</p>
 
-{% include inline_image.html collection='qatar' pid='obj7' %}
+---
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+{% include inline_image.html collection='johnwilliams' pid='obj05' %}
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
+Sir
 
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
+Is a Letter to be written to the Admiral to this effect inclosing the Pardon?
 
+A Letter sh<sup>d</sup> be written on the subject or this part of it.
 
-{% include inline_image.html collection='qatar' pid='obj2' %}
+---
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor. Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+Case of John Williams
+
+It appears by the Minutes of the Court Martial that he was born at Boston in New England (at least no proof is brought to the contrary) and that he married a French woman at Bordeaux about five years ago.
+That he was taken on board the <i>Bordelais</i> French Privateer serving as part of the Crew, by the <i>Revolutionaire</i>.
+
+That Lord Proby [while the Prisoners were on board the <i>Revolutionaire</i>] had ordered a Lieutenant to propose to Williams that he and four or five others should be received as volunteers on board the <i>Danae</i>, instead of being sent to Prison, and that they had accepted the
+
+---
+
+{% include inline_image.html collection='johnwilliams' pid='obj06' %}
+
+offer, telling the Lieutenant, that they had been brought into the French Service against their inclination and were ready to enter into the English; but the conversation was not given in Evidence by the Lieutenant nor any other person that heard it.
+
+The Law Officers of the Crown on considering all the proceedings have repeated their opinion that this hearsay Evidence of Lord Proby had been improperly received by the Court, and, <del>though</del> as the chief point on which a decision on the Case should be formed, is <u>whether the Prisoners did or did not voluntarily enter to serve on board</u>
+
+---
+
+the <em>Danae</em>, which had not been proved by the Lieutenant or any other person who was present, the Prisoner ought to have the benefit of the irregularity, and that Williams ought therefore to be discharged, letting it be distinctly understood that it had been on that ground, and that ground only, the Evidence being clear in every other respect.
+
+To be pardoned.
