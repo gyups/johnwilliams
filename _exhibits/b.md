@@ -6,12 +6,16 @@ publish_date: 1802-09-29
 permalink: /exhibits/b/
 ---
 
+<h2>The Cover Letter</h2>
+
 {% include inline_image.html collection='johnwilliams' pid='obj04' %}
 
 Case of John Williams an American under Sentence of Death at Portsmouth.
 <p style="margin-left: 40px">Sep<sup>r</sup> 29 1802</p>
 
 ---
+
+<h2>Page One of the Case Summary</h2>
 
 {% include inline_image.html collection='johnwilliams' pid='obj05' %}
 
@@ -31,6 +35,8 @@ That he was taken on board the <i>Bordelais</i> French Privateer serving as part
 That Lord Proby [while the Prisoners were on board the <i>Revolutionaire</i>] had ordered a Lieutenant to propose to Williams that he and four or five others should be received as volunteers on board the <i>Danae</i>, instead of being sent to Prison, and that they had accepted the
 
 ---
+
+<h2>Pages Two and Three of the Case Summary</h2>
 
 {% include inline_image.html collection='johnwilliams' pid='obj06' %}
 
