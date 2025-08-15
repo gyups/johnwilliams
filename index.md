@@ -46,4 +46,4 @@ The letter and the enclosed documents, including the pocketbook, can be found by
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='_date' collection='johnwilliams' %}
+{% include collection_gallery.html facet_by='label' collection='johnwilliams' %}
