@@ -5,11 +5,11 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj04",
   "protocol": "http://iiif.io/api/image",
-  "width": 5183,
+  "width": 5184,
   "height": 3888,
   "sizes": [
     {
-      "width": 5183,
+      "width": 5184,
       "height": 3888
     },
     {
