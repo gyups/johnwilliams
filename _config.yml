@@ -86,7 +86,7 @@ search:
     index: '/search/index.json' # file the index will get written to
     collections:
       johnwilliams:
-        content: false # whether or not to index page content
+        content: true # whether or not to index page content
         fields: # the metadata fields to index
           - title
           - people
@@ -111,26 +111,26 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'transcriptions'
+  - label: 'exhibits'
     sub:
       - label: 'Passport, Bayonne'
-        link: '/transcriptions/passport_bayonne/'
+        link: '/exhibits/passport_bayonne/'
       - label: 'Passport, Bordeaux'
-        link: '/transcriptions/passport_bordeaux/'
+        link: '/exhibits/passport_bordeaux/'
       - label: 'Notes of Debt'
-        link: '/transcriptions/notes_of_debts/'
+        link: '/exhibits/notes_of_debts/'
       - label: 'US Protection Papers'
-        link: '/transcriptions/passports_us/'
+        link: '/exhibits/passports_us/'
       - label: 'Notarized Document, Bordeaux'
-        link: '/transcriptions/notarized_docs/'
+        link: '/exhibits/notarized_docs/'
       - label: 'Defence & Autobiography'
-        link: '/transcriptions/defence_auto/'
+        link: '/exhibits/defence_auto/'
       - label: 'Letter to Milbanke'
-        link: '/transcriptions/letter_milbanke/'
+        link: '/exhibits/letter_milbanke/'
       - label: 'Letter to Nepean & Minute'
-        link: '/transcriptions/letter_nepean/'
+        link: '/exhibits/letter_nepean/'
       - label: 'Summary & Pardon'
-        link: '/transcriptions/summary/'
+        link: '/exhibits/summary/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
