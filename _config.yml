@@ -127,7 +127,7 @@ menu:
       - label: 'Doc. 3 - Money Owed, Prosecution'
         link: '/transcriptions/mo_prosecution'
       - label: 'Doc. 4 - US Protection Papers'
-        link: '/transcriptions/passports_us/'
+        link: '/transcriptions/passport_us/'
       - label: 'Doc. 5 - Passport, Bayonne'
         link: '/transcriptions/passport_bayonne/'
       - label: 'Doc. 6 - Money Owed, Corsair La Mouche'
