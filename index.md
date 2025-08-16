@@ -22,21 +22,24 @@ These papers were not thrown away, misfiled, or unknown. The letterbook was desc
 
 Though perhaps a logical filing decision at the time, this action broke the connection between the court martial and the pocketbook, making it difficult to find among the records at Kew and annoying many historians over the years.
 
-### Contents of John Williams' pocketbook & Timeline
+### Contents of the Letter
 
-- __Interterritorial Passport - Bayonne__, 20 September, 1799 (4 Sansculottides, An 7)
-- __Interterritorial Passport - Bordeau__, 8 April, 1800 (18 Germinal, An 8)
-- __Note of Debt__, 2 May, 1800 (12 Floréal, An 8)
-- __Notarized Document in Bordeau__, 30 January, 1801 (10 Pluvoire, Ans 9)
-- __Note of Debt__, 18 February, 1801 (29 Pluviôse, An 9)
-- __Note of Debt__, 21 February, 1801 (2 Ventose, An 9)
-- __US Seamen's Passport, English - Bordeau__, 23 April, 1801
-- __US Seamen's Passport, French - Bordeau__, 24 April, 1801
-- __John Williams' Defence and Autobiography__, 12 September, 1801
-- __Letter: Cpt. Boven to Adm. Milbanke__, 2 September, 1802
-- [__Letter: Adm. Milbanke to Evan Nepean__](https://gyups.github.io/johnwilliams/exhibits/a/), 3 September, 1802
-- [__Minute made by the Adm. Board__](https://gyups.github.io/johnwilliams/exhibits/a/), 4 September, 1802
-- __Summary of Court Martial, Pardon__, 29 September, 1802
+__Bureaucratic Paperwork__
+
+- [Letter to the Board of Admiralty from Adm. Milbanke](https://gyups.github.io/johnwilliams/transcriptions/letter_adm/)
+- [Letter to Adm. Milbanke from Cpt. Bover](https://gyups.github.io/johnwilliams/transcriptions/letter_milbanke/)
+- [John Williams' Defence and Personal History, Evidence from his Court Martial](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)
+- [Summary of John Williams' Case & his Pardon](https://gyups.github.io/johnwilliams/transcriptions/summary/)
+
+__John Williams' Pocketbook__
+
+- [Document 1 - Procurator](https://gyups.github.io/johnwilliams/transcriptions/procurator/)
+- [Document 2 - Ticket to March, Bordeaux](https://gyups.github.io/johnwilliams/transcriptions/passport_bordeaux/)
+- [Document 3 - Money Owed, Prosecution](https://gyups.github.io/johnwilliams/transcriptions/mo_prosecution/)
+- [Document 4 - US Protection Papers](https://gyups.github.io/johnwilliams/transcriptions/passports_us)
+- [Document 5 - Interterritorial Passport, Bayonne](https://gyups.github.io/johnwilliams/transcriptions/passport_bayonne/)
+- [Document 6 - Money Owed, Corsair *La Mouche*](https://gyups.github.io/johnwilliams/transcriptions/mo_corsair_lamouche)
+- [Document 7 - Money Owed, 26 Francs](https://gyups.github.io/johnwilliams/transcriptions/mo_26francs/)
 
 ### Document Source
 

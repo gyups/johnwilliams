@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About this Site
-permalink: /about/
+title: false
+permalink: /about_johnwilliams/
 ---
 
-This website is the fruit of a four-day course called Minimal Computing held June 14-17, 2021, by *Dream Lab: A Digital Humanities Training Institute*, *Price Lab for Digital Humanities*, and *Penn Libraries*. The course was taught by Alex Gil and Marii Nyröp with the hope to empower researchers to put and maintain their own work online.
-
-This site currently hosts simple images of the pocketbook of John Williams, quarter-gunner and mutineer. In the future, I will add transcriptions of these documents and additional essays on their contents.
+# The Case of John Williams and the *Danae*
 
 {% include parallax_image.html collection='johnwilliams' pid='obj13' y='50%' %}
 

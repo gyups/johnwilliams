@@ -30,9 +30,9 @@ Mk. Milbanke
 
 ## The Minute [^5]
 
+<img title="minute" alt="A back and forth written during a meeting of the Board of Admiralty" src="/img/minute.jpg">
 
-{% include inline_image.html collection='johnwilliams' pid='obj02' %}
-
+![Notes written during the Board of Admiralty](/img/minute.jpg)
 
 4 Sept
 

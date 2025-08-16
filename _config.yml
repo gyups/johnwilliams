@@ -103,18 +103,21 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+
+  - lable: 'The Case of John Williams and the Danae'
     sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
+      - label: 'About the Case'
+        link: '/about_johnwilliams/'
+      - label: 'Timeline'
+        link: '/timeline/'
   - label: 'Transcriptions'
     sub:
       - label: 'Letter to Adm. Board & Minute'
         link: '/transcriptions/letter_adm/'
+      - label: 'Letter to Milbanke'
+        link: '/transcriptions/letter_milbanke/'
+      - label: 'Defence & Autobiography'
+        link: '/transcriptions/defence_auto/'
       - label: 'Summary of the Case & Pardon'
         link: '/transcriptions/summary/'
       - label: 'Doc. 1 - Procurator'
@@ -131,10 +134,14 @@ menu:
         link: '/transcriptions/mo_corsair_lamouche/'
       - label: 'Doc. 7 - Money Owed, 26 Francs'
         link: '/transcriptions/mo_26francs'
-      - label: 'Letter to Milbanke'
-        link: '/transcriptions/letter_milbanke/'
-      - label: 'Defence & Autobiography'
-        link: '/transcriptions/defence_auto/'
+  - label: 'About'
+    sub:
+      - label: 'About this Site'
+        link: '/about/'
+      - label: 'Documentation'
+        link: 'https://minicomp.github.io/wiki/wax/'
+      - label: 'Credits'
+        link: '/credits/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
