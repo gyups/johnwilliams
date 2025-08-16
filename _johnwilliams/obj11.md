@@ -1,18 +1,15 @@
 ---
 pid: obj11
 label: Document No. 2 | Ticket of March
-title: Engilsh Translation, Page 1 | Document No. 2 | Ticket of March
-people: Chief Jauce, Clerk Carmy, John Williams, Rev. William Howell (translator)
-_date: September 1801
-revolutionary_date:
-location: Portsmouth
-language: English
-pages: Page 2 of 3
+title: Original French | Document No. 2 | Ticket of March
+people: Chief Jauce, Clerk Carmy, John Williams
+_date: 8 April 1800
+revolutionary_date: 18 Germinal Year VIII
+location: Paris
+language: French
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/document2/
-trans_link: https://gyups.github.io/johnwilliams/transcription/document2/
-original_name: 14.00.18
+original_name: 13.52.09
 order: '10'
 layout: johnwilliams_item
 collection: johnwilliams

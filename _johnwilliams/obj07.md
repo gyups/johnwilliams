@@ -1,18 +1,16 @@
 ---
 pid: obj07
-label: Document No. 1 | Procurator
-title: Orignial French, Page 1 | Document No. 1 | Procurator
-people: Consul Darrieux, Richard Calven, John Murphy
-_date: 29 January 1800
-revolutionary_date: 10 Pluviôse, Ans 9
-location: Bordeaux
-language: French
-pages: Page 1 of 3
+label: Summary of the Case of John Williams
+title: Page 2 | Case of John Williams an American Under Sentence of Death at Portsmouth
+people: Unknown Clerk, John Jervis, John Williams, Unnamed Wife, William Allen Proby,
+  Unnamed Lieutenant
+_date: 29 September 1802
+revolutionary_date: 7 Vendémiaire Year XI
+location: Portsmouth
+language: English
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/document1/
-trans_link: https://gyups.github.io/johnwilliams/transcription/document1/
-original_name: 13.49.16
+original_name: 13.43.48
 order: '06'
 layout: johnwilliams_item
 collection: johnwilliams

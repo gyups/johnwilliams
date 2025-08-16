@@ -1,19 +1,16 @@
 ---
 pid: obj06
 label: Summary of the Case of John Williams
-title: Page 2 | Summary of the Case of John Williams
+title: Page 1 | Case of John Williams an American Under Sentence of Death at Portsmouth
 people: Unknown Clerk, John Jervis, John Williams, Unnamed Wife, William Allen Proby,
   Unnamed Lieutenant
 _date: 29 September 1802
-revolutionary_date:
+revolutionary_date: 7 Vendémiaire Year XI
 location: Portsmouth
 language: English
-pages: Page 3 of 3
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/case/
-trans_link: https://gyups.github.io/johnwilliams/transcription/case/
-original_name: 13.43.48
+original_name: 13.43.25
 order: '05'
 layout: johnwilliams_item
 collection: johnwilliams

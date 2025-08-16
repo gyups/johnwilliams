@@ -1,19 +1,15 @@
 ---
 pid: obj05
 label: Summary of the Case of John Williams
-title: Page 1 | Summary of the Case of John Williams
-people: Unknown Clerk, John Jervis, John Williams, Unnamed Wife, William Allen Proby,
-  Unnamed Lieutenant
+title: Title | Case of John Williams an American Under Sentence of Death at Portsmouth
+people: 'John Williams, Peter Turner Bover, Mark Milbanke, Evan Nepean '
 _date: 29 September 1802
-revolutionary_date:
-location: Portsmouth
+revolutionary_date: 7 Vendémiaire Year XI
+location: Spithead
 language: English
-pages: Page 2 of 3
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/case/
-trans_link: https://gyups.github.io/johnwilliams/transcription/case/
-original_name: 13.43.25
+original_name: 14.03.02
 order: '04'
 layout: johnwilliams_item
 collection: johnwilliams

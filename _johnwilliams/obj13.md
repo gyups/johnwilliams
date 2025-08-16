@@ -1,19 +1,15 @@
 ---
 pid: obj13
-label: Document No. 3 | Money Owed, Prosecution
-title: Original French | Document No. 3 | Money Owed, Prosecution
-people: Unknown Clerk, John Brown, Samuel Scarburgh, Citizen La Chauritiere, John
-  Williams, George Gardner
-_date: 20 February 1800
-revolutionary_date: 8 Ventiôse An 9
-location: Bordeaux
-language: French
-pages: Page 1 of 2
+label: Document No. 2 | Ticket of March
+title: Engilsh Translation, Page 2 | Document No. 2 | Ticket of March
+people: Chief Jauce, Clerk Carmy, John Williams, Rev. William Howell (translator)
+_date: 12 September 1801
+revolutionary_date: 25 Fructidor Year IX
+location: Portsmouth
+language: English
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/document3/
-trans_link: https://gyups.github.io/johnwilliams/transcription/document3/
-original_name: 13.53.02
+original_name: 14.00.43
 order: '12'
 layout: johnwilliams_item
 collection: johnwilliams

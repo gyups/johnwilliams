@@ -1,19 +1,15 @@
 ---
 pid: obj02
-label: Letter from Cpt. Bover to Adm. Milbanke
-title: Minute | Captain Peter Bover, HMS Blenheim, to Admiral Mark Milbanke, Commander-in-Chief
-  Portsmouth
-people: Board of Admiralty, John Jervis, Evan Nepean
+label: Letter from Adm. Milbanke to Evan Napean
+title: Envelope | Admiral Mark Milbanke to Board of Admiralty c/o Evan Napean
+people: Mark Milbanke, Peter Turner Bover
 _date: 3 September 1802
-revolutionary_date:
-location: London
+revolutionary_date: 16 Fructidor Year X
+location: Spithead
 language: English
-pages: Page 2 of 3
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/letter/
-trans_link: https://gyups.github.io/johnwilliams/transcription/letter/
-original_name: 13.42.44
+original_name: 14.02.45
 order: '01'
 layout: johnwilliams_item
 collection: johnwilliams

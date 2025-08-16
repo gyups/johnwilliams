@@ -1,19 +1,16 @@
 ---
 pid: obj20
-label: Document No. 5 | Marine République Français Passe-port
-title: Original French, Page 1 | Document No. 5 | Marine République Français Passe-port
-people: John Williams, Sous-commissaire de Marine Brispord, Unnamed Commissaire Principal
-  de Marine
-_date: 20 or 21 September 1798
-revolutionary_date: 4me Jour Complementare, An 7
-location: Bayonne
-language: French
-pages: Page 1 of 3
+label: Document No. 4 | US Sailor's Pass, Bordeaux
+title: American Pass in French with English Translation, Page 2 | Document No. 4 |
+  US Sailor's Pass, Bordeaux
+people: Isaac Cox Barnet, John Williams, Rev. William Howell (translator)
+_date: 12 September 1801
+revolutionary_date: 25 Fructidor Year IX
+location: Portsmouth
+language: English
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/document5/
-trans_link: https://gyups.github.io/johnwilliams/transcription/document5/
-original_name: 13.58.15
+original_name: 14.01.21
 order: '19'
 layout: johnwilliams_item
 collection: johnwilliams

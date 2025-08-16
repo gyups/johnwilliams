@@ -1,17 +1,15 @@
 ---
 pid: obj25
-label: Document No. 7 | Money Owed, 26 Francs
-title: Original French | Document No. 7 | Money Owed, 26 Francs
-people: John Williams, Ojuul Seat (sic)
-_date: 17 February 1800
-revolutionary_date: 29 Pluviôse, An 9
-location: Bordeaux
-language: French
-pages: Page 1 of 2
+label: Document No. 6 | Money Owed, Corsair La Mouche
+title: English Translation | Document No. 6 | Money Owed, Corsair La Mouche
+people: John Williams, Citizen La Prée, George Gardner, Unknown Clerk, Rev. William
+  Howell (translator)
+_date: 12 September 1801
+revolutionary_date: 25 Fructidor Year IX
+location: Portsmouth
+language: English
 archive: The National Archives, Kew
 reference: ADM 1/1054/774
-article_link: https://gyups.github.io/johnwilliams/essay/document7/
-trans_link: https://gyups.github.io/johnwilliams/transcription/document7/
 original_name: 14.01.56
 order: '24'
 layout: johnwilliams_item
