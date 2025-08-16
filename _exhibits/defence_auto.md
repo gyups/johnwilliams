@@ -3,7 +3,7 @@ layout: exhibit
 title: 'John Williams Defence and Autobiography'
 author: John Williams
 publish_date: 1801-09-12
-permalink: /exhibits/defence_auto/
+permalink: /transcriptions/defence_auto/
 ---
 
 ### Title of Record

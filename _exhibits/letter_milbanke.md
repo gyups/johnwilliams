@@ -3,7 +3,7 @@ layout: exhibit
 title: 'Letter from Captain Bover to Admiral Milbanke'
 author: Captain Peter Turner Bover
 publish_date: 1802-10-03
-permalink: /exhibits/letter_milbanke/
+permalink: /transcriptions/letter_milbanke/
 ---
 
 ## The Letter

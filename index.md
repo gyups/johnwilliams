@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: johnwilliams
-  pid: obj10
+  pid: obj11
   y: 19%
   height: '500px'
 ---
