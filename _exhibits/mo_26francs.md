@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: Doc. 7 - 'Money Owed: 26 Francs'
+title: 'Doc. 7 - Money Owed, 26 Francs'
 author:
 publish_date: 1802-10-03
 permalink: /transcriptions/mo_26francs/
@@ -32,6 +32,6 @@ Jonh Scot [John Scott]
 
 [^1]: I feel that Rev. William Howell was equally frustrated by the way this document was signed.
 
-[^2]: This suggests the signature was John as the person wrote it out the same way - clearly trying to spell the English name phonetically. From this, I believe the
+[^2]: This suggests the signature was John as the person wrote it out the same way - clearly trying to spell the English name phonetically. From this, I believe the name is John Scott.
 
 [^3]: This is both a transcription and re-translation of Rev. Howell's text, due to the difficulty of reading the handwriting and my own bad French.
