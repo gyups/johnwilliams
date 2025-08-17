@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: Doc. 2 - Ticket of March, Bordeaux
-author: Unknown Bureaucrat
+author: Chief of the 3rd Division Jance
 publish_date: 1800-04-08
 permalink: /transcriptions/passport_bordeaux/
 ---
