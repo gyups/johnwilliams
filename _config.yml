@@ -104,13 +104,13 @@ search:
 
 menu:
 
-  - lable: 'The Mutiny on the Danae'
+  - label: 'The Mutiny on the Danae'
     sub:
       - label: 'About the Case'
         link: '/about_johnwilliams/'
       - label: 'Timeline'
         link: '/timeline/'
-      - lable: 'References'
+      - label: 'References'
         link: '/references/'
   - label: 'Transcriptions'
     sub:
