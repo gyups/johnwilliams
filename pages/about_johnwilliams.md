@@ -1,10 +1,8 @@
 ---
 layout: page
-title: false
+title: 'The Case of John Williams and the Danae'
 permalink: /about_johnwilliams/
 ---
-
-# The Case of John Williams and the *Danae*
 
 {% include parallax_image.html collection='johnwilliams' pid='obj13' y='50%' %}
 

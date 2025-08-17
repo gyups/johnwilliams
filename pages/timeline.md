@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timeline of John Williams' Life
+title: Timeline of Events
 permalink: /timeline/
 ---
 
