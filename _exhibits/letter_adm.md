@@ -42,6 +42,8 @@ Has he not been tried by a Court Martial & Condemned?
 
 [Red ink] Yes, Sir. Vide [^6] enclosed papers.
 
+#### [NEXT | LETTER FROM CPT. BOVER TO ADM. MILBANKE >](https://gyups.github.io/johnwilliams/transcriptions/letter_milbanke/)
+
 ---
 
 ### Notes

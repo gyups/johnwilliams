@@ -61,11 +61,13 @@ Jouen William [sic]
 presenant de  
 Bayonne
 
+#### [Next | Money Owed for Corsair *la Mouche* >](https://gyups.github.io/johnwilliams/transcriptions/mo_corsair_lamouche/)
+
 ---
 
 ## Notes
 
-[^1]: *The corsair *Le Bourdelais* was a privateer from Bordeaux (hence the name) that was captured by HMS *Revolutionaire* on 11 October 1799. John Williams and five other men aboard were pressed into British service and transferred to HMS *Danae*. The circumstances of Captains Proby and Twysden's belief that these men were English and neither French nor American, as they claimed, was the crux of Williams' case and his pardon.
+[^1]: The corsair *Le Bourdelais* was a privateer from Bordeaux (hence the name) that was captured by HMS *Revolutionaire* on 11 October 1799. John Williams and five other men aboard were pressed into British service and transferred to HMS *Danae*. The circumstances of Captains Proby and Twysden's belief that these men were English and neither French nor American, as they claimed, was the crux of Williams' case and his pardon.
 
 [^2]: The document must have been ripped with Rev. Howell got it because he also does not translate Williams' height.
 

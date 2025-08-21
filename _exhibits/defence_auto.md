@@ -28,6 +28,8 @@ In consequence of which I was forced to Remain in my shirt and trousers on The D
 
 John Williams
 
+#### [Next | Summary of the Case >](https://gyups.github.io/johnwilliams/transcriptions/summary/)
+
 ---
 
 ### Notes

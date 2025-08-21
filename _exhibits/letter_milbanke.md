@@ -25,6 +25,8 @@ humble Servant
 
 P.T. Bover
 
+#### [NEXT | JOHN WILLIAMS' DEFENCE AND LIFE HISTORY >](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)
+
 ---
 
 ### Notes

@@ -41,3 +41,9 @@ That Lord Proby (while the Prisoners were on board the *Revolutionaire*) had ord
 The Law Officers of the Crown on considering all the proceedings have repeated their opinion that this hearsay Evidence of Lord Proby had been improperly received by the Court, and, <del>though</del> as the chief point on which a decision on the Case should be formed, is <u>whether the Prisoners did or did not voluntarily enter to serve on board</u> [page 3] the <em>Danae</em>, which had not been proved by the Lieutenant or any other person who was present, the Prisoner ought to have the benefit of the irregularity, and that Williams ought therefore to be discharged, letting it be distinctly understood that it had been on that ground, and that ground only, the Evidence being clear in every other respect.
 
 __To be pardoned.__
+
+#### [Next | Appointment of Procurator >](https://gyups.github.io/johnwilliams/transcriptions/procurator/)
+
+---
+
+## Notes

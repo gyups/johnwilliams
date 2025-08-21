@@ -38,6 +38,8 @@ DE 1000F. ET
 AU DESSOUS  
 50 CENTI
 
+#### [NEXT | MONEY OWNED, 26 FRANCS >](https://gyups.github.io/johnwilliams/transcriptions/mo_26francs/)
+
 ---
 
 ## Notes
