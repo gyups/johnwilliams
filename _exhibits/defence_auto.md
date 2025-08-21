@@ -34,4 +34,4 @@ John Williams
 
 ## Notes
 
-[^1] This date shows that, unlike the letter this was attached to, this memorandum was written prior to Williams' trial on 12 September 1801--the court martial was on the 29th. What happened to Williams between September 1801 and 1802, which this inquiry was sent, in unknown.
+[^1]: This date shows that, unlike the letter this was attached to, this memorandum was written prior to Williams' trial on 12 September 1801--the court martial was on the 29th. What happened to Williams between September 1801 and 1802, which this inquiry was sent, is unknown.

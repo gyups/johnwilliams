@@ -38,7 +38,7 @@ That Lord Proby [^3] (while the Prisoners were on board the *Revolutionaire*) ha
 
 {% include inline_image.html collection='johnwilliams' pid='obj07' %}
 
-The Law Officers of the Crown on considering all the proceedings have repeated their opinion that this hearsay Evidence of Lord Proby had been improperly received by the Court, and, <del>though</del> as the chief point on which a decision on the Case should be formed, is <u>whether the Prisoners did or did not voluntarily enter to serve on board</u> [page 3] the <em>Danae</em>, [^5] which had not been proved by the Lieutenant or any other person who was present, the Prisoner ought to have the benefit of the irregularity, and that Williams ought therefore to be discharged, letting it be distinctly understood that it had been on that ground, and that ground only, the Evidence being clear in every other respect.
+The Law Officers of the Crown on considering all the proceedings have repeated their opinion that this hearsay Evidence of Lord Proby had been improperly received by the Court, and, <del>though</del> as the chief point on which a decision on the Case should be formed, is <u>whether the Prisoners did or did not voluntarily enter to serve on board</u> [page 3] the <em>Danae</em>, [^5] which had not been proved by the Lieutenant or any other person who was present, the Prisoner ought to have the benefit of the irregularity, and that Williams ought therefore to be discharged, [^6] letting it be distinctly understood that it had been on that ground, and that ground only, the Evidence being clear in every other respect.
 
 __To be pardoned.__
 
@@ -57,3 +57,5 @@ __To be pardoned.__
 [^4]: At this time it was not uncommon to have a variety of different nationalities serving in the Royal Navy -- this was occurring as the ideas of the citizen and the citizen soldier were being developed and shaped in both America and France. This was a time when someone could not change their nationality and there was no concept of regulated immigration--people simply left one country and entered another. However, countries like Britain believed that their subjects never stopped being British and therefore were fair game to press into military service at sea. Maritime workers were at the forefront of changing international laws, and would over the course of the nineteenth century become the most scrutinized and documented workers in the world.
 
 [^5]: The issue and the reasoning for the pardon is not that Williams was American, it was that his voluntary status could not be proven in court. At this time, Williams would not have been considered an enemy combatant as the United States did not go to war with Britain until 1812. I do suspect this case was complicated by Williams' French loyalties.
+
+[^6]: I believe this means that the British let John Williams go, possibly after a year aboard the HMS *Blenheim*, hence Cpt. Bover's inquiry.
