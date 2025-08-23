@@ -110,8 +110,6 @@ menu:
         link: '/about_johnwilliams/'
       - label: 'Timeline'
         link: '/timeline/'
-      - label: 'References'
-        link: '/references/'
   - label: 'Transcriptions'
     sub:
       - label: 'Letter to Adm. Board & Minute'
@@ -136,6 +134,14 @@ menu:
         link: '/transcriptions/mo_corsair_lamouche/'
       - label: 'Doc. 7 - Money Owed, 26 Francs'
         link: '/transcriptions/mo_26francs'
+  - label: 'Reference Library'
+    sub:
+      - label: 'The Devil Himself'
+        link: '/devil_himself/'
+      - label: 'The Danae Mutiny'
+        link: '/danae_mutiny/'
+      - label: 'Works on Other Mutinies'
+        link: '/other_mutinies/'
   - label: 'About'
     sub:
       - label: 'About this Site'
@@ -162,8 +168,10 @@ footer:
       link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
+    - label: 'Works Cited'
+      link: '/works_cited/'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:mwalker@mun.ca'
   logos:
     - img: '/img/logo.png'
 
