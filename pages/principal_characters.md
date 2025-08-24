@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Principal Characters
-permalink: /naval_chronicle/
+permalink: /principal_characters/
 ---
 
 __HMS *Danae* (formerly *La Vaillant*)__
 
 __Jackson__  
-Captain of the foretop and native of Liverpool. A mutineer. According to the *Naval Chronicle*, Jackson was the secretary to Richard Parker, the principal mutineer at the Nore in 1797.
+Captain of the foretop and native of Liverpool. A mutineer. According to the *Naval Chronicle*, Jackson was the secretary to Richard Parker, the principal mutineer at the Nore in 1797. He was never captured.
 
 __John Williams__  
 The 29-year-old Bostonian who, according to him, lived a considerable portion of his life in France or working with Frenchmen. It is confirmed by both accounts of the mutiny and the records of displayed on this website that Williams could read and write in French, and was familiar with French bureaucracy and law. He may have been a Channel Islander, but that is never proposed by any contemporary commentator on the mutiny or modern historian.
@@ -23,6 +23,21 @@ Proby's clerk. This man was a professional scribe and bureaucrat who would have 
 
 __MacDonald, aka Samuel Higgins__  
 Mutineer from the *Danae* who claimed to be Samuel Higgins from Holden, Conn., on discovery. He was tried on June 10, 1801, and hung shortly after.
+
+__John Brown I__  
+A mutineer from Ireland who was drafted into the French Army. The number comes from the *Danae*'s muster book.
+
+__John Brown III__  
+A Black Virginian who came aboard *Danae* from *la Bourdelais* with Williams and was a mutineer. The number comes from the *Danae*'s muster book.
+
+__Richard Galvin__  
+A mutineer from Ireland who was drafted into the French Army.
+
+__David Murphy__  
+A mutineer from Ireland who was drafted into the French Army.
+
+__Lieutenant Niven__  
+One of the *Danae* officers who discovered two mutineers after his return to England; John Marret and MacDonald.
 
 ---
 

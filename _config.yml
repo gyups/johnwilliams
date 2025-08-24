@@ -108,6 +108,8 @@ menu:
     sub:
       - label: 'About the Case'
         link: '/about_johnwilliams/'
+      - label: 'The Principal Characters'
+        link: '/principal_characters/'
       - label: 'Timeline'
         link: '/timeline/'
   - label: 'Transcriptions'
@@ -140,6 +142,8 @@ menu:
         link: '/devil_himself/'
       - label: 'The Danae Mutiny'
         link: '/danae_mutiny/'
+      - label: 'The Naval Chronicle'
+        link: '/naval_chronicle/'
       - label: 'Works on Other Mutinies'
         link: '/other_mutinies/'
   - label: 'About'

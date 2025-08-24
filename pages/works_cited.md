@@ -16,7 +16,7 @@ Frykman, Niklas. "Connections Between Mutinies in European Navies". *Internation
 
 MacDougall, Philip. "Lord Love the Irish and Damnation to the English: The Naval Mutinies of 1798." *The Mariner's Mirror* 108, no. 4 (2022): 423-438. [https://doi.org/10.1080/00253359.2022.2117457](https://doi.org/10.1080/00253359.2022.2117457).
 
-*The Naval Chronicle*. London: Joyce Gold, 1800. Hathi Trust, [https://catalog.hathitrust.org/Record/000550825/Home](https://catalog.hathitrust.org/Record/000550825/Home).
+*The Naval Chronicle*. 40 Volumes. London: Joyce Gold, 1800. Hathi Trust, [https://catalog.hathitrust.org/Record/000550825/Home](https://catalog.hathitrust.org/Record/000550825/Home).
 
 Neale, Jonathan. "Forecastle and Quarterdeck: Protest, Discipline and Mutiny in the Royal Navy, 1793-1814." PhD Diss, University of Warwick, 1990. [https://wrap.warwick.ac.uk/id/eprint/35615/](https://wrap.warwick.ac.uk/id/eprint/35615/).
 
