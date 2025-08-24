@@ -8,23 +8,19 @@ The Mutiny on the *Danae* occurred on 14 March 1800 but many events occurred pri
 
 It also doesn't help that the French side of this encounter is recorded using the Republican calendar. Dates in this form will be converted.
 
-##### [1770](#1770) | [1780](#1780) | [1790](#1790) | [1800](#1800) | [1810](#1810)
+##### [1770](#1770) | [1776](#1776) | [1789](#1789) | [1793](#1793) | [1797](#1797) | [1799](#1799) | [1800](#1800) | [1801](#1801) | [1802](#1802)
 
 ---
 
-### 1770
-
-##### 1770
+#### 1770
 
 - John Williams was born this year or the next, according to his history.[^1]
 
-##### 1776
+#### 1776
 
 - __July 4__: Thirteen British colonies declare their independence from the empire.
 
-### 1780
-
-##### 1789
+#### 1789
 
 - Williams left the employment of E. Persons.[^1] Perhaps this was the merchant Ebenezer Parsons of Boston, who shipped goods around the Atlantic, and also funded some privateering ventures.[^7]
 
@@ -32,13 +28,25 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - __July 14__: The storming of the Bastille in France marks the beginning of the French Revolution.
 
-### 1790
-
-##### 1793
+#### 1793
 
 - Williams left the Dunkirk fishery to join the "French service".[^1]
 
-##### 1799
+#### 1797
+
+- __April 16__: The mutiny at Spithead began in the Channel fleet when 16 ships protested against the living condition in the Royal Navy, including their meagre pay (no pay raise for nearly a century, what they did get was always late), better food, increased shore leave (fear of desertion kept men on ships even when in port), unpopular officers, and worker's comp.
+
+- __April 26__: More ships in Plymouth join the mutiny at Spithead.
+
+- __12 May__: A new munity broke out at the Nore, a mooring in the Thames estuary, starting on the *Sandwich* and spreading to other ships. More revolutionary in sentiment and able to harass trade into London, this mutiny was not looked on as positively as the first, which was barely tolerated.
+
+- __May 15__: The mutiny at Spithead ended with the pardon of the mutineers and a settlement of many of their demands.
+
+- __May 30__: The captain of HMS *Clyde* regained control of his vessel at the Nore and they slipped away to the dockyard at Sheerness. This signalled the dissolution of the mutiny. Many of the Nore leaders were tried on board HMS *Neptune* and where either hung on the *Sandwich* or transported to Australia. Still, proportionally few men where punished for this mutiny, though the reprisals were more severe than at Spithead.
+
+- __September 21__: The crew of HMS *Hermione* mutinied in the Caribbean, forcing their way into the quarterdeck and murdering Cpt. Hugh Pigot. These core mutineers went on to murder eight other officers and two midshipmen, throwing all the bodies overboard. The mutiny was uncommonly brutal, probably due of a combination of Pigot's cruelty and many years serving the West Indies, witnessing the constant surge of disease and the miserable dehumanization of slavery. The sailors delivered the ship to the Spanish at La Guaira and became the *Santa Cecillia*. The British were much more vindictive in finding and prosecuting the mutineers, finding 33, most of whom were hung or transported.
+
+#### 1799
 
 - He then left French service.[^1]
 
@@ -50,9 +58,7 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - __October 13__: Captain Twysden of *Revolutionaire* offered six men to the *Danae* whom were apparently questioned by one of the ship's lieutenants. The six men transferred were the Virginians John Brown and Samuel Scarborough, the South Carolinian David Greig, the Frenchman Charles Goodrough, and Bostonian John Williams. This is the start of Williams' time on board the *Danae*.
 
-### 1800
-
-##### 1800
+#### 1800
 
 - __March 14__: Between 9:15pm and 9:30pm, Captain Lord Allen Proby was locked bellow with the loyal crew and the arms chest on the deck above. __The Mutiny on the *Danae* had begun off the island of Ushant.__ Unable to argue terms with the mutineers, Proby threw important documents overboard, as was protocol.[^4]
 
@@ -86,13 +92,15 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - __November__: *La Bellone* lost most of its crew of the coast of Portugal, on which was rumoured to be some *Danae* mutineers (NC vol 4, 340).
 
-##### 1801
+#### 1801
 
 - __January 30__: Williams is appointed the procurator for Richard Calvin and John Murphy in a case to get their sure of the *Danae* prize money. The official document in the pocketbook also shows that Williams and the two other men were staying at the barracks of the fort of the Revolution in Bourdeaux.[^12]
 
 - __February 21__: John Brown and Samuel Scarborough committed to pay Williams 180 Francs
 
 - __March__: *La Grande Mouche* was driven ashore off Spain by HMS *Diamond*, a ship that again was rumoured to have *Danae* mutineers on board. Again, the *Naval Chronicle* seemed to really relish the idea of the mutineers coming to tragedy (NC vol 4, 340).
+
+- __April 23__: Consul Isaac Cox Barnet of Bordeaux wrote US protection passes for John Williams in English and French. On the French pass, he notes that Williams intended to join *la Statira* at Paimpot with Cpt. Gardner, who was formerly assosiated
 
 - __June 3__: Having arrived in London on board the American schooner *Bilboa*, MacDonald was discovered in Wapping, again by Lieutenant Niven. Upon arrest, MacDonald blurted out that the Mutiny was "all Lord Proby's fault". Spinney wondered if Lt. Niven coming across him was as much a coincidence as the Naval Chronicle suggests (Spinney, 50-51; Naval Chronicle vol. 5, 533; TNA CM).
 
@@ -106,7 +114,7 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - At some point between September 1801 and 1802, John Williams was recommended for pardon by the First Lord of the Admiralty, Lord St. Vincent and was pardoned by King George III (ADM 2/1120). At this point either Williams was put in a prison hulk or released.
 
-##### 1802
+#### 1802
 
 - __September 2__: Captain P. T. Bover wrote to Admiral Mark Milbanke to answer an inquiry about a man in prison on board his ship, John Williams.[^9]
 
@@ -115,8 +123,6 @@ It also doesn't help that the French side of this encounter is recorded using th
 - __September 4__: The Board of Admiralty met. According to the minute, the board did not remember they had pardoned Williams ("Has he not been tried by a Court Martial & Condemned?") and this is probably why the papers appended to the court martial were consulted, including the pocketbook. However, this suggests that Lord St. Vincent had forgotten that he pardoned a mutinous sailor, which, for someone like him, seems unlikely.[^11]
 
 - __September 29__: The summary of the case was submitted, based on a review of the appended documents removed from the court martial. As the court martial did not contain the pardon [?], this information must have been drawn from somewhere else. In any case, they returned the appended papers with Milbanke's letter instead of the original court martial.[^10]
-
-### 1810
 
 ---
 
