@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: Doc. 5 - Marine Passport, Bayonne
-author: Unknown Clerk
+author: Brispord
 publish_date: 1799-09-20
 permalink: /transcriptions/passport_bayonne/
 ---
@@ -18,7 +18,7 @@ Port of Bayonne () Year
 
 Let pass Citizen John Williams seaman of Boston aged 29 years height — chesnut hair covering - going to passage to join the Bourdelois [^1]
 
-Bayonne the 4th Complementary day 7th Year of the Republick
+Bayonne the 4th Complementary day 7th Year of the Republick [^2]
 
 The under commissary charged with the particulars of the armement and maritime inscriptions
 
@@ -36,7 +36,7 @@ MARINE
 RÉPUBLIQUE FRANÇAISE  
 PASSE-PORT
 
-Laissez passer le Citoyen John Williams mot du mer de Boston de 29 ans, taille [^2] cheveux Chataine provant allant du passage joindre Le Bordelais Bayonne, le 4 jour Comp. [^3] an 7me de la République.
+Laissez passer le Citoyen John Williams mot du mer de Boston de 29 ans, taille [^3] cheveux Chataine provant allant du passage joindre Le Bordelais Bayonne, le 4 jour Comp. [^4] an 7me de la République.[^2]
 
 Le Sous-Commissaire de Marine chargé du détail des armements et inscription Maritime,
 
@@ -49,7 +49,7 @@ Vu par le Commissaire Principal de Marine,
 [signed] Brispord
 
 Vet passer airty[?]  
-Le 3ieme journee complementaire an 7 se  
+Le 3ieme journee complementaire an 7 se[^5]  
 suivants au passages.
 
 [signature]
@@ -69,6 +69,10 @@ Bayonne
 
 [^1]: The corsair *Le Bourdelais* was a privateer from Bordeaux (hence the name) that was captured by HMS *Revolutionaire* on 11 October 1799. John Williams and five other men aboard were pressed into British service and transferred to HMS *Danae*. The circumstances of Captains Proby and Twysden's belief that these men were English and neither French nor American, as they claimed, was the crux of Williams' case and his pardon.
 
-[^2]: The document must have been ripped with Rev. Howell got it because he also does not translate Williams' height.
+[^2]: 4 Sanscullotides Year VII = 20 September 1799
 
-[^3]: This refers to the complimentary days or sanscullotides. These days were intended to be both a celebration of the revolution at the end of year (in the fall rather than after Christmas) and to add days needed to square a logical calendar to the earth's rotation.
+[^3]: The document must have been ripped with Rev. Howell got it because he also does not translate Williams' height.
+
+[^4]: This refers to the complimentary days or sanscullotides. These days were intended to be both a celebration of the revolution at the end of year (in the fall rather than after Christmas) and to add days needed to square a logical calendar to the earth's rotation.
+
+[^5]: 3 Sanscullotides Year VII = 19 September 1799

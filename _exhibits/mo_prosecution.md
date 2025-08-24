@@ -2,7 +2,7 @@
 layout: exhibit
 title: 'Doc. 3 - Money Owed, Prosecution'
 author: French Officials
-publish_date: 1801-02-27
+publish_date: 1801-02-21
 permalink: /transcriptions/mo_prosecution/
 ---
 
@@ -12,7 +12,7 @@ permalink: /transcriptions/mo_prosecution/
 
 No. 3 [^1]
 
-We the undersigned seamen coming from the late English Corvette the Danae acknowledge to owe to Citoyen John Williams the sum of one hundred and eighty livres jointly –- for advance of expences incurred by the said Williams for his prosecution against Citizens La Chauritiere before the tribunal of commerce [^2] he being to account to us for whatever may be coming back to us.
+We the undersigned seamen coming from the late English Corvette the Danae acknowledge to owe to Citoyen John Williams the sum of one hundred and eighty livres[^5] jointly –- for advance of expences incurred by the said Williams for his prosecution against Citizens La Chauritiere before the tribunal of commerce [^2] he being to account to us for whatever may be coming back to us.
 
 Bourdeaux 2nd Ventose 9th Year [^3]
 
@@ -48,3 +48,5 @@ Samuel Scarburgh [^4]
 [^3]: 2 Ventôse Year 9 = 21 February 1801
 
 [^4]: These two men joined the *Danae* with Williams from *la Bordelais*. John Brown was a 26-year-old Black man and Samuel Scarborough was a 20-year-old listed as an ordinary seaman. They both claimed to be American, from Virginia.
+
+[^5]: Rev. Howell translated this whole letter into English, except "livres", which he translated from Francs. The decimalized Franc (1 Franc:100 centimes) was made the official state currency in 1799. This could be British anti-revolutionary pettiness or simply Howell making sure everyone knew what was meant by the new term. However, since the papers were prepared for court martial, I must assume that the naval officers attending would be up to date on changes in French currency. There was a failed attempt to decimalize British currency in 1824; the British would not adopt a modern decimalized currency until 15 February 1971.
