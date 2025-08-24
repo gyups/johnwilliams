@@ -40,8 +40,8 @@ est âgé de Trent deux Ans,
 taille de Cinq piéds six pouces  
 cheveux et sourcils Chátains  
 yeux gris, ayant une Cicratice sour le frontan et sur de l’oeil droit  
-allant à Paimpot, pour s’y embarquer sur le Navire Américain La Statira [Go to Paimpot and join the American ship la Statira], Cap. Gardner.  
-sais lui donner, ni souffrir qu’il lui soit donné aucun empèchement, mais de lui accorder au contraire tous les secours qui sont en leur pouvoir.[^2]
+allant à Paimpot, pour s’y embarquer sur le Navire Américain La Statira [Go to Paimpot and join the American ship la Statira], Cap. Gardner.[^2]  
+sais lui donner, ni souffrir qu’il lui soit donné aucun empèchement, mais de lui accorder au contraire tous les secours qui sont en leur pouvoir.
 
 [Embossed Seal] En conséquence de quoi j’ai signé le présent Passe-port, valable poir Cing Decades et y ai fait apposer le sceau ordinaire de cette Agence.
 
