@@ -14,25 +14,45 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 #### 1770
 
-- John Williams was born this year or the next, according to his history.[^1]
+- John Williams was born this year or the last, according to his protection papers. His pass from Bayonne from 1799 says he was 29 ([TNA ADM 1/1054, Bayonne Pass](https://gyups.github.io/johnwilliams/transcriptions/passport_bayonne/])) and those from Bourdeaux in 1801 say he was 32 ([ADM 1/1054, Bordeaux Passes](https://gyups.github.io/johnwilliams/transcriptions/passport_us)), suggesting he was probably born in late 1769 or early 1770.
 
 #### 1776
 
 - __July 4__: Thirteen British colonies declare their independence from the empire.
 
+#### 1779
+
+- __Jun 19__: William Allen Proby was born. He was the first son of John Proby, at the time 2nd Baron of Carysford, later 1st Earl of Carysford, and his first wife Elizabeth Osbourne.
+
 #### 1789
 
-- Williams left the employment of E. Persons.[^1] Perhaps this was the merchant Ebenezer Parsons of Boston, who shipped goods around the Atlantic, and also funded some privateering ventures.[^7]
+- Williams left the employment of E. Persons when he was about 19 ([TNA ADM 1/1054, Statement of Case](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)). Perhaps this was the merchant Ebenezer Parsons of Boston, who shipped goods around the Atlantic, and also funded some privateering ventures.[^7]
 
-- He joins the Dunkirk fishery after leaving Boston, meaning he would have been in France during the early years of the French Revolution, after having grown up during the American Revolution.[^1]
+- After leaving Parsons, he "since saild [sic] out of Different parts of America and for some years before this present war begun I saild out of Dunkirk in the South to fishery" ([TNA ADM 1/1054, Statment of Case](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)). Bopping around the Atlantic was fairly common for seafarers at this time. Ships moving across the sea, transporting people, ideas, and goods, has led historians to term this milieu "The Atlantic World".
 
-- __July 14__: The storming of the Bastille in France marks the beginning of the French Revolution.
+- William Proby was allowed to style himself *Lord Proby* when his father was made Earl of Carysford, an Irish peerage that is now extinct.
+
+- __July 14__: The storming of the Bastille in France marked the beginning of the French Revolution.
 
 #### 1793
 
-- Williams left the Dunkirk fishery to join the "French service".[^1]
+- Williams said "since the war have the Greatest Part of my time Been in the French service" ([TNA ADM 1/1054, Statment of Case](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)). For the British, the beginning of the war was 1793 but the French had been at war with continental European states prior to Britain's entry, so it is difficult to say what he meant. As to what he was doing, I think he means that he worked predominately in French ships after the war started.
+
+- Proby joined the Royal Navy, becoming a midshipman at age 14 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 5).
+
+#### 1796
+
+- The French begin to design and build the corvette *la Vaillante* in Bayonne ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.10-11).
+
+- __March 1__: Proby passed his lieutenant's exam at age 16 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 6).
+
+- __September 27__: While serving under John Jervis, Lord St. Vincent (who would be First Lord of the Admiralty when Williams' papers were presented to the board) in the Mediterranean, Proby is given command of his first ship, the eternally leaky HMS *Tarleton* ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 7).
+
+- __November 11__: Proby was removed from *Tarleton* and sent to HMS *Peterel* in an officer shuffle to staff the recently captured Spanish frigate *la Mahonessa*. Due to the rating of the ship, this automatically promotes Proby to Commander at 17 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 7-8).
 
 #### 1797
+
+- Williams married a Frenchwoman from Bourdeaux ([TNA ADM 1/1054](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)). Williams wrote: "[I] have been married in Bourdeaux in France for this [sic] five years" and since his statement was written in 1801, this would mean his marriage was around 1797.
 
 - __April 16__: The mutiny at Spithead began in the Channel fleet when 16 ships protested against the living condition in the Royal Navy, including their meagre pay (no pay raise for nearly a century, what they did get was always late), better food, increased shore leave (fear of desertion kept men on ships even when in port), unpopular officers, and worker's comp.
 
@@ -45,6 +65,12 @@ It also doesn't help that the French side of this encounter is recorded using th
 - __May 30__: The captain of HMS *Clyde* regained control of his vessel at the Nore and they slipped away to the dockyard at Sheerness. This signalled the dissolution of the mutiny. Many of the Nore leaders were tried on board HMS *Neptune* and where either hung on the *Sandwich* or transported to Australia. Still, proportionally few men where punished for this mutiny, though the reprisals were more severe than at Spithead.
 
 - __September 21__: The crew of HMS *Hermione* mutinied in the Caribbean, forcing their way into the quarterdeck and murdering Cpt. Hugh Pigot. These core mutineers went on to murder eight other officers and two midshipmen, throwing all the bodies overboard. The mutiny was uncommonly brutal, probably due of a combination of Pigot's cruelty and many years serving the West Indies, witnessing the constant surge of disease and the miserable dehumanization of slavery. The sailors delivered the ship to the Spanish at La Guaira and became the *Santa Cecillia*. The British were much more vindictive in finding and prosecuting the mutineers, finding 33, most of whom were hung or transported.
+
+#### 1798
+
+- __Febraury 17__: Proby was sent back to the Channel from the Mediterranean and given command of the laid up  36-gun frigate HMS *Belle Poule*. Even though it was out of commission, the transfer automatically promoted Proby to post captain. He was 18 and due to seniority and the attrition of the war, would have guaranteed Proby a future as an admiral ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 8-9).
+
+- __December 4__: Proby is given command of HMS *Danae*, his first real command as captain and joining the Channel blockade ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 9).
 
 #### 1799
 
@@ -60,7 +86,7 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 #### 1800
 
-- __March 14__: Between 9:15pm and 9:30pm, Captain Lord Allen Proby was locked bellow with the loyal crew and the arms chest on the deck above. __The Mutiny on the *Danae* had begun off the island of Ushant.__ Unable to argue terms with the mutineers, Proby threw important documents overboard, as was protocol.[^4]
+- __March 14__: Between 9:15pm and 9:30pm, Captain Lord Proby was locked bellow with the loyal crew and the arms chest on the deck above. __The Mutiny on the *Danae* had begun off the island of Ushant.__ Unable to argue terms with the mutineers, Proby threw important documents overboard, as was protocol.[^4]
 
 - __March 15__: The the mutineers sailed towards a French convoy and John Williams hailed the *Colombe* in French. A boat was launched and French sailors came aboard. Lord Proby surrendered the ship to Captain Julien, specifically refusing to acknowledge the mutineers.[^3] The *Danae* was formerly captured by the French and landed in Le Conquet, Finistère, after slipping away from HMS *Triton* and *Boadicea*.[^4]
 
