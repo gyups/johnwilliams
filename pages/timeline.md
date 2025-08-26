@@ -38,17 +38,21 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - Williams said "since the war have the Greatest Part of my time Been in the French service" ([TNA ADM 1/1054, Statment of Case](https://gyups.github.io/johnwilliams/transcriptions/defence_auto/)). For the British, the beginning of the war was 1793 but the French had been at war with continental European states prior to Britain's entry, so it is difficult to say what he meant. As to what he was doing, I think he means that he worked predominately in French ships after the war started.
 
-- Proby joined the Royal Navy, becoming a midshipman at age 14 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 5).
+- Proby joined the Royal Navy, becoming a midshipman at age 14 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.5).
 
 #### 1796
 
 - The French begin to design and build the corvette *la Vaillante* in Bayonne ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.10-11).
 
-- __March 1__: Proby passed his lieutenant's exam at age 16 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 6).
+- __March 1__: Proby passed his lieutenant's exam at age 16 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.6).
 
-- __September 27__: While serving under John Jervis, Lord St. Vincent (who would be First Lord of the Admiralty when Williams' papers were presented to the board) in the Mediterranean, Proby is given command of his first ship, the eternally leaky HMS *Tarleton* ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 7).
+- __September 27__: While serving under John Jervis, Lord St. Vincent (who would be First Lord of the Admiralty when Williams' papers were presented to the board) in the Mediterranean, Proby is given command of his first ship, the eternally leaky HMS *Tarleton* ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.7).
 
-- __November 11__: Proby was removed from *Tarleton* and sent to HMS *Peterel* in an officer shuffle to staff the recently captured Spanish frigate *la Mahonessa*. Due to the rating of the ship, this automatically promotes Proby to Commander at 17 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 7-8).
+- __November 11__: Proby was removed from *Tarleton* and sent to HMS *Peterel* in an officer shuffle to staff the recently captured Spanish frigate *la Mahonessa*. Due to the rating of the ship, this automatically promotes Proby to Commander at 17 ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.7-8).
+
+- __November 25__: Hull and rigging finally completed, *la Vaillante* sailed for Rochefort ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.11).
+
+- __December 2__: *La Vaillante* arrived at Rochefort to receive its cannon and wait for a captain ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.11).
 
 #### 1797
 
@@ -58,29 +62,45 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - __April 26__: More ships in Plymouth join the mutiny at Spithead.
 
-- __12 May__: A new munity broke out at the Nore, a mooring in the Thames estuary, starting on the *Sandwich* and spreading to other ships. More revolutionary in sentiment and able to harass trade into London, this mutiny was not looked on as positively as the first, which was barely tolerated.
+- __May 12__: A new munity broke out at the Nore, a mooring in the Thames estuary, starting on the *Sandwich* and spreading to other ships. More revolutionary in sentiment and able to harass trade into London, this mutiny was not looked on as positively as the first, which was barely tolerated.
 
 - __May 15__: The mutiny at Spithead ended with the pardon of the mutineers and a settlement of many of their demands.
 
 - __May 30__: The captain of HMS *Clyde* regained control of his vessel at the Nore and they slipped away to the dockyard at Sheerness. This signalled the dissolution of the mutiny. Many of the Nore leaders were tried on board HMS *Neptune* and where either hung on the *Sandwich* or transported to Australia. Still, proportionally few men where punished for this mutiny, though the reprisals were more severe than at Spithead.
 
+- __September 4__: The Coup of 18 Fructidor, Year V, was a triggered by the results of that year's elections, which returned a majority of royalist members. Many of  those arrested were deported to French overseas colonies.
+
 - __September 21__: The crew of HMS *Hermione* mutinied in the Caribbean, forcing their way into the quarterdeck and murdering Cpt. Hugh Pigot. These core mutineers went on to murder eight other officers and two midshipmen, throwing all the bodies overboard. The mutiny was uncommonly brutal, probably due of a combination of Pigot's cruelty and many years serving the West Indies, witnessing the constant surge of disease and the miserable dehumanization of slavery. The sailors delivered the ship to the Spanish at La Guaira and became the *Santa Cecillia*. The British were much more vindictive in finding and prosecuting the mutineers, finding 33, most of whom were hung or transported.
+
+- __September 23__: Political déportés from the Coup of 18 Fructidor embarked on *La Vaillant*, bound for Cayenne, French Guiana, including [François Barthélemy](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Marie,_marquis_de_Barth%C3%A9lemy) and [General Charles Pichegru](https://en.wikipedia.org/wiki/Jean-Charles_Pichegru). Sometime between the coup and the arrival of the déportés, Lieutenant de vaisseau Pierre LaPorte was given command and joined the ship.They set sail for Cayenne three days later ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.12,15).
+
+- __November 11__: *La Vaillant* and the déportés arrived in Cayenne ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.16).
 
 #### 1798
 
-- __Febraury 17__: Proby was sent back to the Channel from the Mediterranean and given command of the laid up  36-gun frigate HMS *Belle Poule*. Even though it was out of commission, the transfer automatically promoted Proby to post captain. He was 18 and due to seniority and the attrition of the war, would have guaranteed Proby a future as an admiral ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 8-9).
+- LaPorte wrote a special report to the French government on how pleased he was with *la Vaillant*'s speed and sailing qualities ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.16-17).
 
-- __December 4__: Proby is given command of HMS *Danae*, his first real command as captain and joining the Channel blockade ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p. 9).
+- __Febraury 17__: Proby was sent back to the Channel from the Mediterranean and given command of the laid up  36-gun frigate HMS *Belle Poule*. Even though it was out of commission, the transfer automatically promoted Proby to post captain. He was 18 and due to seniority and the attrition of the war, would have guaranteed Proby a future as an admiral ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.8-9).
+
+- __August 3__: *La Vaillant* received orders to board more déportés bound for exile in Cayenne and left on the 6th ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.17-18).
+
+- __August 7__: HMS *Indefatigable* spots masts on the horizon and gives chase ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.21).
+
+- __August 8__: Despite wetting the sails and throwing the ship's over overboard, *la Vaillant* was unable to outrun *Indefatigable*, which fired upon the smaller ship. The French officers surrendered and the déportés were rescued from exile in French Guiana, though some were families going to join men already there and were unlikely to be reunited. *La Vaillant* was a prize of the British sent to Plymouth ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.22-23).
+
+- __September__: *La Vaillant* was renamed HMS *Danae* and the ship was retrofitted from a corvette to a frigate. The ship's twenty 8-pounders (17 tons) were replaced with twenty 32-pounder carronades, twelve 12-pounder carronades, and two 6-pounders (21 tons), all on the main deck, plus 10 more tons in the shot locker. As Dudley Pope remarked "the effect on the fine-lined *Danae* was like using a racehorse in a dungcart" ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.25). This was apparently the British approach to converting French corvettes into Royal Navy service: "more guns; fewer men".
+
+- __September 20__: *Danae* received its first sailors, one of whom deserted nine days later ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.27).
+
+- __December 4__: Proby is given command of HMS *Danae*, his first real command as captain and joining the Channel blockade ([Pope](https://gyups.github.io/johnwilliams/transcriptions/devil_himself/), p.9,28).
+
+- __December 12__: Proby joined the ship and read out his commission to the so-far assembled crew, beginning their sea wages.
 
 #### 1799
 
-- He then left French service.[^1]
+- __September 30__: Williams is issued a passport in Bayonne by the Principal Marine Commissary Brisport to sail on the privateer *la Bourdelais* ([TNA ADM 1/1054, Marine Passport from Bayonne](https://gyups.github.io/johnwilliams/transcriptions/passport_bayonne/)).
 
-- Williams also married a French woman in Bordeaux.[^1]
-
-- __September 30__: Williams is issued a passport in Bayonne by the Principal Marine Commissary Brisport to sail on the privateer *la Bourdelais*.[^2]
-
-- __October 11__: The corsair *la Bourdelais* was captured by MHS *Revolutionaire*.
+- __October 11__: The corsair *la Bourdelais* was captured by HMS *Revolutionaire*.
 
 - __October 13__: Captain Twysden of *Revolutionaire* offered six men to the *Danae* whom were apparently questioned by one of the ship's lieutenants. The six men transferred were the Virginians John Brown and Samuel Scarborough, the South Carolinian David Greig, the Frenchman Charles Goodrough, and Bostonian John Williams. This is the start of Williams' time on board the *Danae*.
 
@@ -108,7 +128,7 @@ It also doesn't help that the French side of this encounter is recorded using th
 
 - __May 30__: Two mutineers taken out of cartel and sent aboard the *Cambridge* off Homoaze.[^4]
 
-- __June 12__: HMS *Indefatidable* captured the privateer *le Vengeur* two days out of Bordeaux, with mutineer John Marret on board (Spinney, 50).
+- __June 12__: HMS *Indefatigable* captured the privateer *le Vengeur* two days out of Bordeaux, with mutineer John Marret on board (Spinney, 50).
 
 - __June 17__: Proby was court martialled on board HMS *Gladiator* in Portsmouth by Adms. Parker and Halloway, and Cpts. Thormborough, Murray, Darby, Pickmore, Tyler, Sir Williams, Yorke, Wolley, Graves, and Chuch, and Mr. Gretham, judge advocate. He is honourably acquitted.[^4]
 
